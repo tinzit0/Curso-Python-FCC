@@ -17,7 +17,7 @@ print(my_str[1:7]) #ello w
 
 my_str = 'Hello World'
 print(my_str[:7])#hello w
-#esto extrae todo desde el indice 0 hasta (pero sin incluir) el caracter en el indice 7
+#esto extrae #lodo desde el indice 0 hasta (pero sin incluir) el caracter en el indice 7
 #y esto es lo que sucede si omites el indice stop:
 
 my_str = 'Hello World'
