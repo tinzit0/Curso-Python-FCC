@@ -60,3 +60,17 @@ salary = 75000
 employee_card = f'Employee: {full_name} | Age: {employee_age} | Position: {position} | Salary: ${salary}'
 print(employee_card)
 
+#paso 16
+employee_code = 'DEV-2026-JD-001'
+department = employee_code[0:3]
+print(department)
+
+#paso 17
+year_code = employee_code[4:8]
+initials = employee_code[9:11]
+print(year_code)
+print(initials)
+
+#paso 18
+last_three = employee_code[-3:]
+print(last_three)
